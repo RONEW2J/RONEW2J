@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 3rd-year Infromation Systems student at SDU University  
-- 💻 Focused on **Backend Development** (Java, Spring Boot, Django)  
+- 💻 Focused on **Backend Development** (Django, Spring Boot)  
 - ☁️ Hands-on experience with **Docker**, **CI/CD**, **Google Cloud**, and **ELK Stack**  
 - 🌐 Background in **network engineering** and system automation  
 - 📈 Interested in **DevOps**, **system design**, and **distributed systems**
