@@ -31,21 +31,21 @@ JUnit • PyTest • Selenium
 
 ### 💼 Projects
 
-#### 🔹 [Pinder (Full-Stack)](https://github.com/RONEW2J/pinder)
-Tinder-like matching platform built with Django and React.  
+#### 🔹 [Pinder (Full-Stack)](https://github.com/RONEW2J/FinalTinderCloneProject)
+Tinder-like matching platform built with Django.  
 - Real-time chat via WebSockets  
 - Task queues with Celery + Redis  
 - Media storage via MinIO (reduced storage costs by 30%)  
 - Deployed using Docker and GCP (40% latency reduction)
 
-#### 🔹 [Flower Store (Backend)](https://github.com/RONEW2J/flower-store)
+#### 🔹 [Flower Store (Backend)](https://github.com/RONEW2J/Flower_Store)
 RESTful + GraphQL API for an online flower shop.  
 - Spring Boot + Spring Security + JWT/OAuth2  
 - ORM with Hibernate & Spring Data JPA  
 - DTO conversion with custom mapper  
 - Maven-powered project structure
 
-#### 🔹 [Waste Classifier (Deep Learning)](https://github.com/RONEW2J/waste-classifier)
+#### 🔹 [Waste Classifier (Deep Learning)](https://github.com/RONEW2J/Waste-Classifier)
 Computer Vision project for waste classification.  
 - Transfer Learning using EfficientNetB0  
 - Trained on TrashNet + custom dataset  
