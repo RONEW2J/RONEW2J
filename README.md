@@ -47,7 +47,6 @@ A social web app inspired by Tinder — with a twist of anime themes.
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ikhtiyor-ibragimov-a0116932b/)  
-- 💼 [HH.ru](https://hh.kz/resume) *(по запросу)*  
 - 🧠 Always open to collaboration and learning opportunities!
 
 ---
