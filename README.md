@@ -31,7 +31,7 @@
 
 ### 📌 Featured Project
 
-#### 🧩 [Pinder](https://github.com/RONEW2J/pinder)
+#### 🧩 [Pinder](https://pinder.store)
 A social web app inspired by Tinder — with a twist of anime themes.
 
 - 🛠️ Stack: Django, Celery, Redis, PostgreSQL, Docker, MinIO, GCP  
