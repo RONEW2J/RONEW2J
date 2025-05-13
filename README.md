@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm Ikhtiyor 👋</h1>
 
-<p align="center">
-  Backend Developer | DevOps Enthusiast | Network Engineer-in-Progress
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 I'm a backend developer from Kazakhstan, open to opportunities in backend development or DevOps. I bring a solid foundation in building scalable web applications, automating infrastructure, and working with modern cloud and container technologies.
