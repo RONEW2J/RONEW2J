@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a motivated software engineer from Kazakhstan with a strong background in backend development, DevOps practices, and computer networks.
+I'm a backend developer from Kazakhstan, open to opportunities in backend development or DevOps. I bring a solid foundation in building scalable web applications, automating infrastructure, and working with modern cloud and container technologies.
 
-- 🌱 Currently deepening my experience in Django, Spring Boot, Docker, and GCP
-- 🔧 Passionate about building scalable systems and automating infrastructure
-- 📚 I enjoy exploring system design, reading tech blogs, and solving problems on LeetCode
+- 🌱 Currently sharpening my skills in Django, Spring Boot, Docker, and Google Cloud Platform
+- ⚙️ Experienced in designing and deploying robust systems using CI/CD, Redis, and task queues
+- 🧠 Passionate about system architecture, infrastructure as code, and performance optimization
 
 ---
 
