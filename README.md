@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ikhtiyor 👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 ### 👨‍💻 About Me
 
