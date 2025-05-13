@@ -1,57 +1,68 @@
-<h1 align="center">Hi, I'm Ikhtiyor 👋</h1>
+<h1 align="center">Hi there, I'm Ikhtiyor 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer | DevOps Enthusiast</b><br>
-  Passionate about building scalable backend systems and automating infrastructure.
+  Backend Developer | DevOps Enthusiast | Network Engineer-in-Progress
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 3rd-year Information Systems student at SDU University  
-- 💻 Focused on **Backend Development** (Django, Spring Boot)  
-- ☁️ Hands-on experience with **Docker**, **CI/CD**, **Google Cloud**, and **ELK Stack**  
-- 🌐 Background in **network engineering** and system automation  
-- 📈 Interested in **DevOps**, **system design**, and **distributed systems**
+I'm a motivated software engineer from Kazakhstan with a strong background in backend development, DevOps practices, and computer networks.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-`Java` `Spring Boot` `Python` `Django` `JavaScript` `HTML/CSS`
-
-**Tools & DevOps**  
-`Docker` `GitHub Actions` `GitLab CI/CD` `Nginx` `Celery` `Redis`  
-`MinIO` `AWS S3` `GCP` `PostgreSQL` `MySQL` `JUnit` `PyTest` `Selenium`  
-`ELK Stack` `WebSockets` `OAuth2` `JWT` `Linux`
+- 🌱 Currently deepening my experience in Django, Spring Boot, Docker, and GCP
+- 🔧 Passionate about building scalable systems and automating infrastructure
+- 📚 I enjoy exploring system design, reading tech blogs, and solving problems on LeetCode
 
 ---
 
-### 📌 Featured Project
+### 🚀 Tech Stack
 
-#### 🧩 [Pinder](https://pinder.store)
-A social web app inspired by Tinder.
+**Languages & Frameworks:**  
+Java • Python • Spring Boot • Django • SQL • HTML/CSS  
 
-- 🛠️ Stack: Django, Celery, Redis, PostgreSQL, Docker, MinIO, GCP  
-- ⚡ Reduced latency by 40% using optimized matching algorithm  
-- 🧰 Real-time features with WebSockets  
-- 🔐 Secure auth with JWT + OAuth2  
-- 📦 Media storage via MinIO/AWS S3 → reduced storage costs by 30%  
-- 🌍 Deployed via Docker + GCP + HTTPS with Nginx  
-- [🔗 Source Code](https://github.com/RONEW2J/FinalTinderCloneProject)
+**Tools & Technologies:**  
+Docker • Git • GitHub Actions • GitLab CI • GCP • MinIO • Redis • Celery • Nginx • PostgreSQL • MySQL • ELK Stack • JWT • OAuth2  
+
+**Testing:**  
+JUnit • PyTest • Selenium  
 
 ---
 
-### 📫 Let's Connect
+### 💼 Projects
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ikhtiyor-ibragimov-a0116932b/)  
-- 🧠 Always open to collaboration and learning opportunities!
+#### 🔹 [Pinder (Full-Stack)](https://github.com/RONEW2J/pinder)
+Tinder-like matching platform built with Django and React.  
+- Real-time chat via WebSockets  
+- Task queues with Celery + Redis  
+- Media storage via MinIO (reduced storage costs by 30%)  
+- Deployed using Docker and GCP (40% latency reduction)
+
+#### 🔹 [Flower Store (Backend)](https://github.com/RONEW2J/flower-store)
+RESTful + GraphQL API for an online flower shop.  
+- Spring Boot + Spring Security + JWT/OAuth2  
+- ORM with Hibernate & Spring Data JPA  
+- DTO conversion with custom mapper  
+- Maven-powered project structure
+
+#### 🔹 [Waste Classifier (Deep Learning)](https://github.com/RONEW2J/waste-classifier)
+Computer Vision project for waste classification.  
+- Transfer Learning using EfficientNetB0  
+- Trained on TrashNet + custom dataset  
+- Deployed model via TensorFlow & Gradio UI
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RONEW2J&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RONEW2J&layout=compact&theme=tokyonight" width="37%" />
-</div>
+### 📫 Reach Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ikhtiyor-ibragimov-a0116932b/)  
+- ✉️ Telegram: [@RonewJJ]()
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RONEW2J&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RONEW2J&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
