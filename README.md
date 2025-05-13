@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ikhtiyor 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer | DevOps Enthusiast | Network-Savvy Developer</b><br>
+  <b>Backend Engineer | DevOps Enthusiast</b><br>
   Passionate about building scalable backend systems and automating infrastructure.
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd-year Computer Science student at SDU University  
+- 🎓 3rd-year Infromation Systems student at SDU University  
 - 💻 Focused on **Backend Development** (Java, Spring Boot, Django)  
 - ☁️ Hands-on experience with **Docker**, **CI/CD**, **Google Cloud**, and **ELK Stack**  
 - 🌐 Background in **network engineering** and system automation  
