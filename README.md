@@ -1,102 +1,58 @@
-# 🔥 TinderCloneProject – Full-Stack Django REST API Application
+<h1 align="center">Hi, I'm Ikhtiyor 👋</h1>
 
-**TinderCloneProject** is a fully functional clone of the popular Tinder app, built as a final team project. It features a modern tech stack, RESTful APIs, background jobs, and a production-ready deployment on cloud infrastructure. This project demonstrates our team’s ability to design, develop, test, document, and deploy a scalable web application.
-
----
-
-## 📱 About the Project
-
-This Tinder clone replicates essential dating features:
-- User registration, login, and profile management
-- Swipe right/left interactions
-- Real-time matching system
-- Private chat between matched users
-- Media uploads and profile photos
+<p align="center">
+  <b>Backend Engineer | DevOps Enthusiast | Network-Savvy Developer</b><br>
+  Passionate about building scalable backend systems and automating infrastructure.
+</p>
 
 ---
 
-## ✅ Features
+### 🚀 About Me
 
-- **30+ Django REST API Endpoints**
-- **Unit tests** for every endpoint and HTTP method
-- **Swagger UI** for API documentation using `drf-yasg`
-- **Silk** for performance profiling
-- **Throttling** for both anonymous and authenticated users
-- **Polished, responsive frontend UI**
-- **Dockerized environment** using `docker-compose`
-- **Deployed on GCP/AWS/PSCloud VM**
-- **TLS certificate and custom domain support**
+- 🎓 2nd-year Computer Science student at SDU University  
+- 💻 Focused on **Backend Development** (Java, Spring Boot, Django)  
+- ☁️ Hands-on experience with **Docker**, **CI/CD**, **Google Cloud**, and **ELK Stack**  
+- 🌐 Background in **network engineering** and system automation  
+- 📈 Interested in **DevOps**, **system design**, and **distributed systems**
 
 ---
 
-## 🧱 Tech Stack
+### 🛠️ Tech Stack
 
-### Backend
-- Python 3.11+
-- Django 5.x
-- Django REST Framework
-- PostgreSQL
-- Redis
-- Celery
-- MinIO / AWS S3 (for media)
-- drf-yasg (Swagger UI)
-- django-silk (profiling)
+**Languages & Frameworks**  
+`Java` `Spring Boot` `Python` `Django` `JavaScript` `HTML/CSS`
 
-### Frontend
-- HTML / CSS / JavaScript (Responsive UI)
-
-### DevOps / Deployment
-- Docker & Docker Compose
-- nginx (static files & reverse proxy)
-- GitHub Actions (CI/CD)
-- GCP / AWS / PSCloud
-- Let’s Encrypt TLS
-- UFW Firewall Configuration
+**Tools & DevOps**  
+`Docker` `GitHub Actions` `GitLab CI/CD` `Nginx` `Celery` `Redis`  
+`MinIO` `AWS S3` `GCP` `PostgreSQL` `MySQL` `JUnit` `PyTest` `Selenium`  
+`ELK Stack` `WebSockets` `OAuth2` `JWT` `Linux`
 
 ---
 
-## 🐳 Local Development (Docker)
+### 📌 Featured Project
 
-To build and run everything locally:
+#### 🧩 [Pinder](https://github.com/RONEW2J/pinder)
+A social web app inspired by Tinder — with a twist of anime themes.
 
-``
-  docker-compose up --build
-``
+- 🛠️ Stack: Django, Celery, Redis, PostgreSQL, Docker, MinIO, GCP  
+- ⚡ Reduced latency by 40% using optimized matching algorithm  
+- 🧰 Real-time features with WebSockets  
+- 🔐 Secure auth with JWT + OAuth2  
+- 📦 Media storage via MinIO/AWS S3 → reduced storage costs by 30%  
+- 🌍 Deployed via Docker + GCP + HTTPS with Nginx  
+- [🔗 Source Code](https://github.com/RONEW2J/pinder)
 
-## 🧪 Testing
-All endpoints and methods are covered with unit tests:
+---
 
-``
- python manage.py test
-``
+### 📫 Let's Connect
 
-## 📚 API Documentation
-Swagger UI is available at:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ikhtiyor-ibragimov-a0116932b/)  
+- 💼 [HH.ru](https://hh.kz/resume) *(по запросу)*  
+- 🧠 Always open to collaboration and learning opportunities!
 
-``
-  http://localhost:8000/swagger/
-``
+---
 
-## 🌐 Live Deployment
-
-### The app is deployed on a production virtual machine.
-
- * 🔗 Production URL: https://yourdomain.com (replace with actual domain)
-
- * ✅ TLS/HTTPS: Enabled via Let’s Encrypt
-
- * 🔐 Firewall: Only web ports are exposed (80/443)
-
-## 👨‍💻 Contributors
-
-| Name                   | Role                         | GitHub                         |
-|------------------------|------------------------------|--------------------------------|
-| **Said Darkhanuly**    | Backend / FrontEnd Developer | [@sdrk47](https://github.com/sdrk47) |
-| **Ikhtiyor Ibragimov** | Backend Developer / DevOps   | [@RONEW2J](https://github.com/RONEW2J) |
-| **Altynbek Dinmukhamed**| Full-Stack Developer         | [@dimash](https://github.com/) |
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-# RONEW2J
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RONEW2J&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RONEW2J&layout=compact&theme=tokyonight" width="48%" />
+</div>
