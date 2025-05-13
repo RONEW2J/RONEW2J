@@ -40,7 +40,7 @@ A social web app inspired by Tinder — with a twist of anime themes.
 - 🔐 Secure auth with JWT + OAuth2  
 - 📦 Media storage via MinIO/AWS S3 → reduced storage costs by 30%  
 - 🌍 Deployed via Docker + GCP + HTTPS with Nginx  
-- [🔗 Source Code](https://github.com/RONEW2J/pinder)
+- [🔗 Source Code](https://github.com/RONEW2J/FinalTinderCloneProject)
 
 ---
 
