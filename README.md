@@ -32,7 +32,7 @@
 ### 📌 Featured Project
 
 #### 🧩 [Pinder](https://pinder.store)
-A social web app inspired by Tinder — with a twist of anime themes.
+A social web app inspired by Tinder.
 
 - 🛠️ Stack: Django, Celery, Redis, PostgreSQL, Docker, MinIO, GCP  
 - ⚡ Reduced latency by 40% using optimized matching algorithm  
