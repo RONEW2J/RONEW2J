@@ -45,14 +45,6 @@ Computer Vision project for waste classification.
 - Trained on TrashNet + custom dataset  
 - Deployed model via TensorFlow & Gradio UI
 
-#### 🔹 [Background Remover (Desktop & Web)](https://github.com/RONEW2J/BackgroundRemover)
-AI-powered background removal service built with Python + rembg + Flask + Tkinter + JS.
-- Desktop app with Tkinter UI
-- Web version with Flask API and HTML/JS/CSS frontend
-- U2NET model for precise object segmentation
-- Drag & drop support with live preview
-- One-click result download
-- Multiple image format support
   
 ---
 
