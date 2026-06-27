@@ -4,7 +4,7 @@
 
 I'm a backend developer from Kazakhstan, open to opportunities in backend development or DevOps. I bring a solid foundation in building scalable web applications, automating infrastructure, and working with modern cloud and container technologies.
 
-- 🌱 Currently sharpening my skills in Django, Spring Boot, Docker, and Google Cloud Platform
+- 🌱 Currently sharpening my skills in Python and Golang, Docker and Google Cloud Platform
 - ⚙️ Experienced in designing and deploying robust systems using CI/CD, Redis, and task queues
 - 🧠 Passionate about system architecture, infrastructure as code, and performance optimization
 
