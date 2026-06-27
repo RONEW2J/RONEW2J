@@ -13,7 +13,7 @@ I'm a backend developer from Kazakhstan, open to opportunities in backend develo
 ### 🚀 Tech Stack
 
 **Languages & Frameworks:**  
-Java • Python • Spring Boot • Django • FastAPI • Flask • SQL • HTML/CSS  
+Go • Python • FastAPI • Django • Starlette • SQL • HTML/CSS  
 
 **Tools & Technologies:**  
 Docker • Git • GitHub Actions • GitLab CI • GCP • MinIO • Redis • Celery • Nginx • PostgreSQL • MySQL • ELK Stack • JWT • OAuth2  
