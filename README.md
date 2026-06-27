@@ -16,10 +16,10 @@ I'm a backend developer from Kazakhstan, open to opportunities in backend develo
 Go • Python • FastAPI • Django • Starlette • SQL • HTML/CSS  
 
 **Tools & Technologies:**  
-Docker • Git • GitHub Actions • GitLab CI • GCP • MinIO • Redis • Celery • Nginx • PostgreSQL • MySQL • ELK Stack • JWT • OAuth2  
+Docker • Git • GitHub Actions • GitLab CI • Prometheus • Grafana • Loki • RabbitMQ • GCP • MinIO • Redis • Celery • Nginx • PostgreSQL • MySQL • MongoDB • JWT • OAuth2  
 
 **Testing:**  
-JUnit • PyTest • Selenium  
+JUnit • PyTest • Selenium • k6 testing
 
 ---
 
