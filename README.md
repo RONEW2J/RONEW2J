@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">Backend & AI Engineer | Python • Go • DevOps • Machine Learning</h3>
+<h3 align="center">Software Engineer | Python • Go • DevOps • Machine Learning</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Backend & AI Engineer** from Kazakhstan, passionate about building scalable backend systems and applying modern machine learning techniques to solve real-world problems.
+I'm a **Software Engineer** from Kazakhstan, passionate about building scalable backend systems and applying modern machine learning techniques to solve real-world problems.
 
 My main interests include:
 
