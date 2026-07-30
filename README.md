@@ -154,7 +154,7 @@ Production-style Tinder-inspired social platform.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=RONEW2J&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RONEW2J&layout=compact&theme=tokyonight" width="37%" alt="Top Languages" /> </p>
 
