@@ -4,23 +4,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Software Engineer** from Kazakhstan, passionate about building scalable backend systems and applying modern machine learning techniques to solve real-world problems.
 
 My main interests include:
 
-- 🚀 Backend architecture & distributed systems
-- 🤖 Artificial Intelligence & Multi-Agent Systems
-- 🧠 Computer Vision & Deep Learning
-- ☁️ Cloud Infrastructure, DevOps & MLOps
-- ⚡ Performance optimization and scalable system design
+- Backend architecture & distributed systems
+- Artificial Intelligence & Multi-Agent Systems
+- Computer Vision & Deep Learning
+- Cloud Infrastructure, DevOps & MLOps
+- Performance optimization and scalable system design
 
 I enjoy designing production-ready APIs, optimizing deep learning models for real-time inference, and building reliable cloud-native applications.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -75,18 +75,18 @@ I enjoy designing production-ready APIs, optimizing deep learning models for rea
 
 ---
 
-# 💼 Featured Projects
+# Featured Projects
 
-## 🚗 [Optimization of Real-Time Road Segmentation](https://github.com/RONEW2J/Optimization-of-Real-Time-Road-Segmentation)
+## [Optimization of Real-Time Road Segmentation](https://github.com/RONEW2J/Optimization-of-Real-Time-Road-Segmentation)
 
 Research project focused on optimizing semantic segmentation models for autonomous driving and embedded AI systems.
 
 ### Highlights
 
-- ⚡ Applied **INT8 / FP16 Quantization** to accelerate inference
-- ✂️ Used **Model Pruning** while preserving segmentation accuracy
-- 📈 Benchmarked FPS, latency, memory consumption and mIoU
-- 🚘 Designed for real-time deployment on edge devices
+- Applied **INT8 / FP16 Quantization** to accelerate inference
+- Used **Model Pruning** while preserving segmentation accuracy
+- Benchmarked FPS, latency, memory consumption and mIoU
+- Designed for real-time deployment on edge devices
 
 **Tech**
 
@@ -94,7 +94,7 @@ Research project focused on optimizing semantic segmentation models for autonomo
 
 ---
 
-## 🎬 [Movie Success & Budget Prediction](https://github.com/RONEW2J/movie_success-budget_prediction)
+## [Movie Success & Budget Prediction](https://github.com/RONEW2J/movie_success-budget_prediction)
 
 Machine Learning project predicting movie revenue and commercial success from structured metadata.
 
@@ -111,7 +111,7 @@ Machine Learning project predicting movie revenue and commercial success from st
 
 ---
 
-## 🤖 [Multi-Agent Financial AI Systems in Automated Trading](https://github.com/RONEW2J/Multi-Agent-Financial-AI-Systems-in-Automated-Trading)
+## [Multi-Agent Financial AI Systems in Automated Trading](https://github.com/RONEW2J/Multi-Agent-Financial-AI-Systems-in-Automated-Trading)
 
 Experimental multi-agent framework for autonomous financial analysis using LLM-powered agents.
 
@@ -128,17 +128,17 @@ Experimental multi-agent framework for autonomous financial analysis using LLM-p
 
 ---
 
-## ❤️ [Pinder](https://github.com/RONEW2J/FinalTinderCloneProject)
+## [Pinder](https://github.com/RONEW2J/FinalTinderCloneProject)
 
 Production-style Tinder-inspired social platform.
 
 ### Highlights
 
-- 💬 Real-time chat with WebSockets
-- ⚙️ Celery + Redis background processing
-- ☁️ Object storage using MinIO
-- 🐳 Docker deployment on Google Cloud Platform
-- 🔐 JWT authentication and media uploads
+- Real-time chat with WebSockets
+- Celery + Redis background processing
+- Object storage using MinIO
+- Docker deployment on Google Cloud Platform
+- JWT authentication and media uploads
 
 **Tech**
 
@@ -146,11 +146,11 @@ Production-style Tinder-inspired social platform.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ronewjj/
-- 💬 Telegram: https://t.me/RonewJJ
-- 📧 Email: **ronew2j@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/ronewjj/
+- Telegram: https://t.me/RonewJJ
+- Email: **ronew2j@gmail.com**
 
 ---
 
@@ -158,8 +158,3 @@ Production-style Tinder-inspired social platform.
 
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=RONEW2J&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RONEW2J&layout=compact&theme=tokyonight" width="37%" alt="Top Languages" /> </p>
 
----
-
-<p align="center">
-    <i>"First, solve the problem. Then, write clean and scalable code."</i>
-</p>
